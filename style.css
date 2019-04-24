@@ -37,7 +37,7 @@ h1{
   margin-left:250px;
   height:500px;
 }
-.wishlist{
+.shoppinglist{
   padding:70px;
   height:700px;
 }
@@ -48,7 +48,7 @@ h1{
 input[type="text"]{
   border:2px solid #FFA1A1;
   width:250px;
-  height:35px;
+  height:49px;
   border-style:solid;
   border-radius:8px;
   padding-right:50px;
